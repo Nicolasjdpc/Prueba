@@ -1,6 +1,6 @@
 # Prueba
 <!Doctype html>
-<link rel="stylesheet" type="text/css" href="Prueba/estilos.css">
+<link rel="stylesheet" type="text/css" href="estilos.css">
 <html lang="en">
 <head>
 <meta charset="UTF-8">
